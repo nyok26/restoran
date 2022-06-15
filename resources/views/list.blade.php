@@ -36,7 +36,7 @@
                     <div class="d-flex justify-content-center mt-5 mb-5">
                         <h1>Restoran</h1>
                     </div>
-                    <table class="table table-dark table-hover table-bordered border-dark mt-5">
+                    <table class="table table-hover table-bordered border-dark mt-5">
                         <thead align="center">
                             <a href="{{ route('food.create') }}" class="btn btn-success">Tambah Makanan</a>
                             <tr>
